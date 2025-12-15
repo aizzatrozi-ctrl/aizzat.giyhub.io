@@ -1,1 +1,1 @@
-# aizzat.giyhub.io
+# aizzat.github.io
